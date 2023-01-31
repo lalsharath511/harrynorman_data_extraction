@@ -1,0 +1,5 @@
+
+parsel @ file:///tmp/build/80754af9/parsel_1646722533460/work
+pymongo==4.3.3
+requests==2.25.1
+
